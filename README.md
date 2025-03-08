@@ -1,5 +1,5 @@
    - 👋 Hi, I'm Arseniy.
-   - 👀 I am an aspiring data analyst.
-   - 🌱 I am diligently learning Python, SQL quieries and Data Vizualisation.
+   - 👀 I am a business intelligence developer.
+   - 🌱 I am diligently learning Python, SQL quieries and Data Visualization.
    - 💞️ In love with statistics and maths.
    - Check out my portfolio (in Russian): [тык](https://github.com/maranafaamen/portfolio/tree/main)
